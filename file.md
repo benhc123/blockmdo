@@ -1,1 +1,1 @@
-https://github.com/account/ignore_user/mdo
+<a href="https://github.com/account/ignore_user/mdo">a</a>
